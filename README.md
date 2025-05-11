@@ -1,20 +1,24 @@
-# Portfólio de Projetos – Danilo Vilela Franco
+# Portfólio Acadêmico – Danilo Vilela Franco
 
-Este repositório contém projetos organizados para compor meu portfólio profissional, com foco nos projetos desenvolvidos ao longo da graduação e em projetos pessoais.
+Este repositório reúne meus projetos acadêmicos desenvolvidos ao longo da graduação em Ciência da Computação no CEUB.
 
-## 📁 Estrutura do Repositório
+## 📂 Estrutura
 
-- `projetos-academicos/` — Projetos feitos na faculdade.
-- `projetos-pessoais/` — Projetos feitos por iniciativa própria.
-- `docs/` — Documentos e ideias relacionados aos projetos.
+- `projetos-academicos/` – Trabalhos e atividades organizados por disciplina:
+  - `logica-da-programacao/`
+  - `banco-de-dados/`
+  - `estrutura-de-dados/`
+  - `poo/`
+  - `bootcamp/`
+  - ...
 
-## 👨‍💻 Sobre mim
+## 👨‍🎓 Sobre mim
 
-- **Nome:** Danilo Vilela Franco
-- **Curso:** Ciência da Computação - CEUB
+- **Nome:** Danilo Vilela Franco 
+- **Curso:** Ciência da Computação – CEUB
 - **Cidade:** Vicente Pires, Brasília
-- **Contato:** francodanilovill@gmail.com
-
-## 🌐 Redes
-
 - [LinkedIn](https://www.linkedin.com/in/danilo-vilela-216417365/)
+
+## 🎯 Objetivo
+
+Mostrar meu progresso acadêmico, projetos desenvolvidos e aplicar boas práticas de versionamento com Git e GitHub.
