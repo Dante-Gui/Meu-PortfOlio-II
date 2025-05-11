@@ -1,4 +1,4 @@
-# Portfólio de Projetos – Danilo Vilela Franco (Diny)
+# Portfólio de Projetos – Danilo Vilela Franco
 
 Este repositório contém projetos organizados para compor meu portfólio profissional, com foco nos projetos desenvolvidos ao longo da graduação e em projetos pessoais.
 
@@ -17,4 +17,4 @@ Este repositório contém projetos organizados para compor meu portfólio profis
 
 ## 🌐 Redes
 
-- [LinkedIn](https://www.linkedin.com/in/seu-usuario-aqui)
+- [LinkedIn](https://www.linkedin.com/in/danilo-vilela-216417365/)
